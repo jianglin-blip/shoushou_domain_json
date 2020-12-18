@@ -1,0 +1,23 @@
+{
+    "data": {
+        "domains": [
+            {
+                "domain_id": 21,
+                "path": "/result.json",
+                "server": "https://ckhomepage.xyz",
+                "type": "STORAGE",
+                "weight": 99
+            },
+            {
+                "domain_id": 26,
+                "path": "/result.json",
+                "server": "https://zhaoxiongjie.xyz",
+                "type": "STORAGE",
+                "weight": 1
+            }
+        ]
+    },
+    "key": "IT_SUCCEEDS_TO_SHOW_DATA",
+    "message": "it succeeds to show data",
+    "status": 1
+}
