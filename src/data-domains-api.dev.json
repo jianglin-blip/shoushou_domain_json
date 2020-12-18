@@ -4,16 +4,9 @@
             {
                 "domain_id": 14,
                 "path": "/result.json",
-                "server": "https://lives3-yc-07ks.xyz",
+                "server": "http://lives3-yc-test07.xyz",
                 "type": "API",
                 "weight": 99
-            },
-            {
-                "domain_id": 15,
-                "path": "/result.json",
-                "server": "https://lives3-yc-07bp.xyz",
-                "type": "API",
-                "weight": 1
             }
         ]
     },

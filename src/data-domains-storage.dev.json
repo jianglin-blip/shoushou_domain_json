@@ -4,16 +4,9 @@
             {
                 "domain_id": 21,
                 "path": "/result.json",
-                "server": "https://ckhomepage.xyz",
+                "server": "http://99percent.xyz",
                 "type": "STORAGE",
                 "weight": 99
-            },
-            {
-                "domain_id": 26,
-                "path": "/result.json",
-                "server": "https://zhaoxiongjie.xyz",
-                "type": "STORAGE",
-                "weight": 1
             }
         ]
     },
